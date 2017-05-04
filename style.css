@@ -26,6 +26,8 @@
 #brand{
   width: 30%;
   height: 100px;
+  float: left;
+  border-right: 1px solid silver;
 }
 
 @keyframes brandImage{
