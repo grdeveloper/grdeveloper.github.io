@@ -41,4 +41,5 @@
   animation-name: brandImage;
   animation-duration: 2s;
   animation-timing-function: linear;
+  animation-delay: 1s;
 }
