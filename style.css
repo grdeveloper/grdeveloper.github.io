@@ -12,6 +12,7 @@ html, body{
 body{
     background-image: URL("http://www.adstrakt.com/wp-content/uploads/2015/10/webdesign.jpg");
     background-size: 100%;
+    opacity: .3;
 }
 
 #container{
