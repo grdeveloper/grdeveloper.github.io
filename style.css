@@ -8,3 +8,15 @@
   padding: 0;
   width: 100%;
 }
+@keyframes brandImage{
+  from{left: 0;
+  transform: rotate(0deg);
+  }
+  to{left: 70px;
+  transform: rotate(360deg;);
+  }
+}
+
+#brandImg{
+  animation: brandImage 2s linear;
+}
