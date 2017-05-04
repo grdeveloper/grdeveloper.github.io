@@ -40,5 +40,5 @@
 #brandImg{
   animation-name: brandImage;
   animation-duration: 2s;
-  animation-direction: alternate;
+  animation-timing-function: linear;
 }
