@@ -9,6 +9,10 @@ html, body{
     width: 100%;
 }
 
+body{
+    background: URL("http://www.adstrakt.com/wp-content/uploads/2015/10/webdesign.jpg");
+}
+
 #container{
     width: 100%;
 }
