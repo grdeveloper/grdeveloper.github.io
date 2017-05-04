@@ -1,4 +1,4 @@
-*{
+*{  
     outline: none;
     text-decoration: none;
     list-style-type: none;
@@ -30,6 +30,39 @@ html, body{
     position: relative;
 }
 
+@-webkit-keyframes brandImage{
+    from{
+        left: 0;
+        transform: rotate(0);
+    }
+    to{
+        left: 230px;
+        transform: rotate(360deg);
+    }
+}
+
+@-moz-keyframes brandImage{
+    from{
+        left: 0;
+        transform: rotate(0);
+    }
+    to{
+        left: 230px;
+        transform: rotate(360deg);
+    }
+}
+
+@-o-keyframes brandImage{
+    from{
+        left: 0;
+        transform: rotate(0);
+    }
+    to{
+        left: 230px;
+        transform: rotate(360deg);
+    }
+}
+
 @keyframes brandImage{
     from{
         left: 0;
@@ -43,7 +76,28 @@ html, body{
 
 #brandImg{
     position: absolute;
+    -webkit-animation: brandImage 3s ease 1s alternate;
+    -moz-animation: brandImage 3s ease 1s alternate;
+    -0-animation: brandImage 3s ease 1s alternate;
     animation: brandImage 3s ease 1s alternate;
+}
+
+@-webkit-keyframes title{
+    0% {opacity: 0; color: white;}
+    50%{ opacity: .5;color: cornsilk;}
+    100%{opacity: 1;color: silver;}
+}
+
+@-moz-keyframes title{
+    0% {opacity: 0; color: white;}
+    50%{ opacity: .5;color: cornsilk;}
+    100%{opacity: 1;color: silver;}
+}
+
+@-o-keyframes title{
+    0% {opacity: 0; color: white;}
+    50%{ opacity: .5;color: cornsilk;}
+    100%{opacity: 1;color: silver;}
 }
 
 @keyframes title{
@@ -56,6 +110,9 @@ html, body{
     margin-right: 20px;
     color: silver;
     text-align: center;
+    -webkit-animation: title 7s ease-out;
+    -moz-animation: title 7s ease-out;
+    -o-animation: title 7s ease-out;
     animation: title 7s ease-out;
 
 }
