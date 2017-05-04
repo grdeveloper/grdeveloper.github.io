@@ -55,7 +55,6 @@ html, body{
     margin-right: 20px;
     color: silver;
     text-align: center;
-    animation-name: title;
-    animation-duration: 12s;
+    animation: title 12s ease-out;
 
 }
