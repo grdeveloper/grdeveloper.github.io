@@ -1,1 +1,10 @@
-
+*{
+  outline: none;
+  text-decoration: none;
+  list-style-type: none;
+}
+*html, body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
