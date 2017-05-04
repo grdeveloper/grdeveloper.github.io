@@ -43,7 +43,7 @@ html, body{
 
 #brandImg{
     position: absolute;
-    animation: brandImage 3s  alternate ease 1s ;
+    animation: brandImage 3s ease 1s alternate;
 }
 
 @keyframes title{
