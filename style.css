@@ -118,11 +118,3 @@ html, body{
 
 }
 
-#mainBlog{
-    width: 100%;
-    height: auto;
-    background-image: URL("http://www.adstrakt.com/wp-content/uploads/2015/10/webdesign.jpg");
-    background-size: cover;
-    clear: both;
-    display: table;
-}
