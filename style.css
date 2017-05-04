@@ -43,11 +43,7 @@ html, body{
 
 #brandImg{
     position: absolute;
-    animation-name: brandImage;
-    animation-duration: 3s;
-    animation-direction: alternate;
-    animation-timing-function: ease;
-    animation-delay: 1s;
+    animation: brandImage 3s  alternate ease 1s ;
 }
 
 @keyframes title{
