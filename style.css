@@ -1,48 +1,65 @@
 *{
-  outline: none;
-  text-decoration: none;
-  list-style-type: none;
+    outline: none;
+    text-decoration: none;
+    list-style-type: none;
 }
 *html, body{
-  margin: 0;
-  padding: 0;
-  width: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
 }
 
 #container{
-  width: 100%;
+    width: 100%;
 }
 
 #navbar{
-  width: 80%;
-  height: 100px;
-  border: 1px solid silver;
-  display: block;
-  margin: 0 auto;
-  position: relative;
-  
+    width: 80%;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+
 }
 
 #brand{
-  width: 30%;
-  height: 80px;
-  margin: 10px;
-  float: left;
-  border-right: 1px solid silver;
+    width: 300px;
+    height: 80px;
+    margin: 10px;
+    float: left;
+    position: relative;
 }
 
 @keyframes brandImage{
-  from{left: 0;
-  
-  }
-  to{left: 70px;
-  
-  }
+    from{
+        left: 0;
+        transform: rotate(0);
+    }
+    to{
+        left: 230px;
+        transform: rotate(360deg);
+    }
 }
 
 #brandImg{
-  animation-name: brandImage;
-  animation-duration: 2s;
-  animation-timing-function: linear;
-  animation-delay: 1s;
+    position: absolute;
+    animation-name: brandImage;
+    animation-duration: 3s;
+    animation-direction: alternate;
+    animation-timing-function: linear;
+    animation-delay: 1s;
+}
+
+@keyframes title{
+    from{opacity: 0; color: floralwhite;}
+    to{ opacity: 1;color: silver;}
+}
+#brand h1{
+    float: right;
+    margin-right: 20px;
+    color: silver;
+    text-align: center;
+    animation-name: title;
+    animation-duration: 12s;
+
 }
