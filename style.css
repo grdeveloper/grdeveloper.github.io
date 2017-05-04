@@ -23,6 +23,10 @@
   
 }
 
+#brand{
+  width: 30%;
+  height: 100px;
+}
 
 @keyframes brandImage{
   from{left: 0;
