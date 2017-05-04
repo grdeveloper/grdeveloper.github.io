@@ -18,5 +18,6 @@
 }
 
 #brandImg{
-  -webkit-animation: brandImage 2s linear;
+  animation-name: brandImage;
+  animation-duration: 2s;
 }
