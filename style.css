@@ -29,10 +29,10 @@
 }
 
 @keyframes brandImage{
-  from{left: 10%;
+  from{left: 0;
   
   }
-  to{left: 20%;
+  to{left: 70px;
   
   }
 }
