@@ -25,7 +25,8 @@
 
 #brand{
   width: 30%;
-  height: 100px;
+  height: 80px;
+  margin: 10px;
   float: left;
   border-right: 1px solid silver;
 }
