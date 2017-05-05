@@ -163,6 +163,7 @@ html, body{
     height: 45px;
     border: 1px solid silver;
     margin: 15px 15px ;
+    display: inline;
     float: left;
 }
 
@@ -171,6 +172,7 @@ html, body{
     height: 45px;
     border: 1px solid silver;
     margin: 15px 15px;
+    display: inline;
     float: left;
 }
 
