@@ -135,7 +135,7 @@ html, body{
     height: 80px;
     position: relative;
     border: 1px solid silver;
-    margin: 10px 0 10px 0;
+    margin: 10px 0 10px 20px;
     float: left;
 }
 
