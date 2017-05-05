@@ -130,7 +130,14 @@ html, body{
     float: left;
 }
 
-
+#navbar #socialHrefs{
+    width: 200px;
+    height: 80px;
+    position: relative;
+    border: 1px solid silver;
+    margin: 10px 10px 10px 0;
+    float: left;
+}
 
 
 
