@@ -162,6 +162,7 @@ html, body{
     width: 52px;
     height: 52px;
     border: 1px solid silver;
+    margin: 19px 5px 19px 23px;
     float: left;
 }
 
@@ -169,6 +170,7 @@ html, body{
     width: 52px;
     height: 52px;
     border: 1px solid silver;
+    margin: 19px 5px 19px 2px;
     float: left;
 }
 
