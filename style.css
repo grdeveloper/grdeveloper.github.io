@@ -167,11 +167,13 @@ html, body{
     float: left;
 }
 
-#navbar #socialHrefs .instagram a{
+#navbar #socialHrefs .instagram, .facebook a{
     display: block;
     line-height: 45px;
     text-align: center;
     font-size: 38px;
+    font-family: Alfredo, sans-serif;
+    color: silver;
 }
 
 #navbar #socialHrefs .facebook{
@@ -183,12 +185,6 @@ html, body{
     float: left;
 }
 
-#navbar #socialHrefs .facebook a{
-    display: block;
-    line-height: 45px;
-    text-align: center;
-    font-size: 38px;
-}
 
 
 
