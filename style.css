@@ -171,6 +171,80 @@ html, body{
     float: left;
 }
 
+@-webkit-keyframes drops{
+    0%{
+        opacity: 0;
+        color: white;
+    }
+    70%{
+        opacity: .3;
+        color: floralwhite;
+    }
+    100%{
+        opacity: 1;
+        color: silver;
+    }
+}
+
+@-moz-keyframes drops{
+    0%{
+        opacity: 0;
+        color: white;
+    }
+    70%{
+        opacity: .3;
+        color: floralwhite;
+    }
+    100%{
+        opacity: 1;
+        color: silver;
+    }
+}
+
+@-o-keyframes drops{
+    0%{
+        opacity: 0;
+        color: white;
+    }
+    70%{
+        opacity: .3;
+        color: floralwhite;
+    }
+    100%{
+        opacity: 1;
+        color: silver;
+    }
+}
+
+@keyframes drops{
+    0%{
+        opacity: 0;
+        color: white;
+    }
+    70%{
+        opacity: .3;
+        color: floralwhite;
+    }
+    100%{
+        opacity: 1;
+        color: silver;
+    }
+}
+
+.instagram a{
+    -webkit-animation: drops 8s ease-in;
+    -moz-animation: drops 8s ease-in;
+    -o-animation: drops 8s ease-in;
+    animation: drops 8s ease-in;
+}
+
+.facebook a{
+    -webkit-animation: drops 10s ease-in;
+    -moz-animation: drops 10s ease-in;
+    -o-animation: drops 10s ease-in;
+    animation: drops 10s ease-in;
+}
+
 #navbar #socialHrefs a{
     display: block;
     color: silver;
@@ -197,7 +271,6 @@ html, body{
     height: 45px;
     display: block;
 }
-
 
 
 
