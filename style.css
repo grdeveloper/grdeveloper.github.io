@@ -169,11 +169,11 @@ html, body{
 
 #navbar #socialHrefs .instagram, .facebook a{
     display: block;
+    color: silver;
     line-height: 45px;
     text-align: center;
     font-size: 38px;
     font-family: Alfredo, sans-serif;
-    color: silver;
 }
 
 #navbar #socialHrefs .facebook{
