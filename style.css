@@ -132,8 +132,10 @@ html, body{
 
 #heading ul{
     display: flex;
+    align-items: center;
 }
 
 #heading ul li{
-    flex 1 1 0px;
+    flex-grow: 1;
+    flex-basis: 110px;
 }
