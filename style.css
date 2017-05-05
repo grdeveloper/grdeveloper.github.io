@@ -189,4 +189,45 @@ html, body{
     background: oldlace;
 }
 
+.instagram:hover{
+    content: url("http://seeklogo.com/images/I/instagram-new-2016-logo-4773FE3F99-seeklogo.com.png");
+    width: 45px;
+    height: 45px;
+    display: block;
+}
+
+.facebook{
+    content: url("https://www.seeklogo.net/wp-content/uploads/2016/09/facebook-icon-preview-1-400x400.png");
+    width: 45px;
+    height: 45px;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
