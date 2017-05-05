@@ -178,6 +178,7 @@ html, body{
     content: url("http://www.a-league.com.au/i/FFA/layout/social/instagram-logo.png");
     width: 50px;
     height: 50px;
+    display: block;
 }
 
 #instaGram h1:active{
@@ -205,6 +206,7 @@ html, body{
     content: url("http://macombparkdistrict.com/wp-content/uploads/2017/01/facebook-logo.png");
     width: 50px;
     height: 50px;
+    display: block;
 }
 
 #faceBook h1:active{
