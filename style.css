@@ -149,8 +149,8 @@ html, body{
 }
 
 #navbar #socialHrefs{
-    width: 50px;
-    height: 102px;
+    width: 102px;
+    height: 50px;
     padding: 15px 35px 15px 40px;
     position: relative;
     border: 1px solid silver;
@@ -159,7 +159,6 @@ html, body{
 }
 
 #instaGram{
-    padding: 1px;
     width: 50px;
     height: 50px;
     border: 1px solid silver;
