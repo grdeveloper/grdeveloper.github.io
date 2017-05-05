@@ -35,45 +35,63 @@ html, body{
 }
 
 @-webkit-keyframes brandImage{
-    from{
+    0%{
         left: 0;
         transform: rotate(0);
     }
-    to{
+    50%{
         left: 230px;
+        transform: rotate(360deg);
+    }
+    100%{
+        left: 0;
         transform: rotate(360deg);
     }
 }
 
 @-moz-keyframes brandImage{
-    from{
+    0%{
         left: 0;
         transform: rotate(0);
     }
-    to{
+    50%{
         left: 230px;
         transform: rotate(360deg);
     }
+    100%{
+        left: 0;
+        transform: rotate(360deg);
+    }
 }
+
 
 @-o-keyframes brandImage{
-    from{
+    0%{
         left: 0;
         transform: rotate(0);
     }
-    to{
+    50%{
         left: 230px;
+        transform: rotate(360deg);
+    }
+    100%{
+        left: 0;
         transform: rotate(360deg);
     }
 }
 
+
 @keyframes brandImage{
-    from{
+    0%{
         left: 0;
         transform: rotate(0);
     }
-    to{
+    50%{
         left: 230px;
+        transform: rotate(360deg);
+    }
+    100%{
+        left: 0;
         transform: rotate(360deg);
     }
 }
