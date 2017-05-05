@@ -110,11 +110,12 @@ html, body{
     50%{ opacity: .5;color: cornsilk;}
     100%{opacity: 1;color: silver;}
 }
-#brand h1{
+#navbar #brand h1{
     float: right;
     margin-right: 20px;
     color: silver;
     text-align: center;
+    line-height:80px;
     -webkit-animation: title 7s ease-out;
     -moz-animation: title 7s ease-out;
     -o-animation: title 7s ease-out;
