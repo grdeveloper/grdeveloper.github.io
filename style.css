@@ -120,15 +120,6 @@ html, body{
     animation: title 7s ease-out;
 }
 
-#heading{
-    width: 550px;
-    height: 80px;
-    margin: 10px 10px 10px 0;
-    float: left;
-    position: relative;
-    display: block;
-    border: 1px solid silver;
- }
 
 
 
