@@ -157,7 +157,58 @@ html, body{
     float: left;
 }
 
+#instaGram{
+    padding: 1px;
+    width: 50px;
+    height: 50px;
+    border: 1px solid silver;
+    position: relative;
+    float: left;
+}
+#instaGram h1{
+    font-family: Decor, sans-serif;
+    color: silver;
+    font-size: 45px;
+    margin: 0 auto;
 
+}
+
+#instaGram h1:hover{
+    content: url("http://www.a-league.com.au/i/FFA/layout/social/instagram-logo.png");
+    width: 50px;
+    height: 50px;
+}
+
+#instaGram h1:active{
+    background: oldlace;
+}
+
+#faceBook{
+    padding: 1px;
+    width: 50px;
+    height: 50px;
+    border: 1px solid silver;
+    position: relative;
+    float: left;
+}
+
+#faceBook h1{
+    font-family: Decor, sans-serif;
+    color: silver;
+    font-size: 45px;
+    margin: 0 auto;
+
+}
+
+#faceBook h1:hover{
+    content: url("http://macombparkdistrict.com/wp-content/uploads/2017/01/facebook-logo.png");
+    width: 50px;
+    height: 50px;
+}
+
+#faceBook h1:active{
+    background: oldlace;
+}
 
 
 
