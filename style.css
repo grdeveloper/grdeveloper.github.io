@@ -24,7 +24,7 @@ html, body{
 
 }
 
-#brand{
+#navbar #brand{
     width: 300px;
     height: 80px;
     margin: 10px;
@@ -78,8 +78,9 @@ html, body{
     }
 }
 
-#brandImg{
+#navbar #brand #brandImg{
     position: absolute;
+    z-index: 1;
     -webkit-animation: brandImage 3s ease 1s alternate;
     -moz-animation: brandImage 3s ease 1s alternate;
     -0-animation: brandImage 3s ease 1s alternate;
