@@ -121,6 +121,23 @@ html, body{
     animation: title 7s ease-out;
 }
 
+#navbar #heading{
+    width: 550px;
+    height: 80px;
+    position: relative;
+    border: 1px solid silver;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
