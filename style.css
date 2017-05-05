@@ -126,8 +126,16 @@ html, body{
     margin: 10px 10px 10px 0;
     float: left;
     position: relative;
-    display: flex;
+    display: block;
     border: 1px solid silver;
  }
+
+#heading ul{
+    width: 550px;
+    height: 80px;
+    background: 1px solid silver;
+
+
+}
 
 
