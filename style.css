@@ -122,11 +122,11 @@ html, body{
 }
 
 #navbar #heading{
-    width: 550px;
+    width: 500px;
     height: 80px;
     position: relative;
     border: 1px solid silver;
-    margin: 10px 10px 10px 0;
+    margin: 10px 10px 10px 30px;
     float: left;
 }
 
