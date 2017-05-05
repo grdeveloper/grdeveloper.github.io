@@ -155,6 +155,7 @@ html, body{
     position: relative;
     border: 1px solid silver;
     margin: 10px 0 10px 20px;
+    display: inline;
     float: left;
 }
 
