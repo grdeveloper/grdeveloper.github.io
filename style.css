@@ -81,6 +81,7 @@ html, body{
 #navbar #brand #brandImg{
     position: absolute;
     z-index: 1;
+    line-height: 80px;
     -webkit-animation: brandImage 3s ease 1s alternate;
     -moz-animation: brandImage 3s ease 1s alternate;
     -0-animation: brandImage 3s ease 1s alternate;
