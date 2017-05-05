@@ -159,18 +159,18 @@ html, body{
 }
 
 #navbar #socialHrefs .instagram{
-    width: 52px;
-    height: 52px;
+    width: 45px;
+    height: 45px;
     border: 1px solid silver;
-    margin: 19px 5px 19px 23px;
+    margin: 15px 15px ;
     float: left;
 }
 
 #navbar #socialHrefs .facebook{
-    width: 52px;
-    height: 52px;
+    width: 45px;
+    height: 45px;
     border: 1px solid silver;
-    margin: 19px 5px 19px 2px;
+    margin: 15px 15px;
     float: left;
 }
 
