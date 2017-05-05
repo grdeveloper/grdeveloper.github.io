@@ -20,6 +20,7 @@ html, body{
     display: block;
     margin: 0 auto;
     position: relative;
+    border: 1px solid silver;
 
 }
 
@@ -29,6 +30,8 @@ html, body{
     margin: 10px;
     float: left;
     position: relative;
+    display: block;
+    border: 1px solid silver;
 }
 
 @-webkit-keyframes brandImage{
