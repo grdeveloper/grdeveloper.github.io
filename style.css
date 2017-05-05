@@ -126,6 +126,8 @@ html, body{
     height: 80px;
     position: relative;
     border: 1px solid silver;
+    margin: 10px 10px 10px 0;
+    float: left;
 }
 
 
