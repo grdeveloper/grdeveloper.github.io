@@ -29,7 +29,7 @@ html, body{
     height: 80px;
     margin: 10px;
     float: left;
-    position: relative;
+    position: absolute;
     display: block;
     border: 1px solid silver;
 }
@@ -124,7 +124,7 @@ html, body{
 #navbar #heading{
     width: 550px;
     height: 80px;
-    position: relative;
+    position: absolute;
     border: 1px solid silver;
     margin: 10px 10px 10px 0;
     float: left;
@@ -133,7 +133,7 @@ html, body{
 #navbar #socialHrefs{
     width: 180px;
     height: 80px;
-    position: relative;
+    position: absolute;
     border: 1px solid silver;
     margin: 10px 0 10px 0;
     float: left;
