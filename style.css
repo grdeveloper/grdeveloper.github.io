@@ -131,8 +131,9 @@ html, body{
  }
 
 #heading ul{
-    display: flex;
-    align-items: center;
+     width: 550px;
+     display: flex;
+     align-items: center;
 }
 
 #heading ul li{
