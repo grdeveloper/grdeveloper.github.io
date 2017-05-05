@@ -160,13 +160,13 @@ html, body{
 #navbar #socialHrefs .instagram{
     width: 52px;
     height: 52px;
-    
+    border: 1px solid silver;
 }
 
 #navbar #socialHrefs .facebook{
     width: 52px;
     height: 52px;
-
+    border: 1px solid silver;
 }
 
 
