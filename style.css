@@ -167,6 +167,10 @@ html, body{
     float: left;
 }
 
+#navbar #socialHrefs .instagram a{
+    display: block;
+}
+
 #navbar #socialHrefs .facebook{
     width: 45px;
     height: 45px;
@@ -176,6 +180,9 @@ html, body{
     float: left;
 }
 
+#navbar #socialHrefs .facebook a{
+    display: block;
+}
 
 
 
