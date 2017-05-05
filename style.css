@@ -232,17 +232,17 @@ html, body{
 }
 
 .instagram a{
-    -webkit-animation: drops 8s ease-in;
-    -moz-animation: drops 8s ease-in;
-    -o-animation: drops 8s ease-in;
-    animation: drops 8s ease-in;
+    -webkit-animation: drops 6s ease-in;
+    -moz-animation: drops 6s ease-in;
+    -o-animation: drops 6s ease-in;
+    animation: drops 6s ease-in;
 }
 
 .facebook a{
-    -webkit-animation: drops 10s ease-in;
-    -moz-animation: drops 10s ease-in;
-    -o-animation: drops 10s ease-in;
-    animation: drops 10s ease-in;
+    -webkit-animation: drops 7s ease-in;
+    -moz-animation: drops 7s ease-in;
+    -o-animation: drops 7s ease-in;
+    animation: drops 7s ease-in;
 }
 
 #navbar #socialHrefs a{
