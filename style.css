@@ -118,6 +118,14 @@ html, body{
     -moz-animation: title 7s ease-out;
     -o-animation: title 7s ease-out;
     animation: title 7s ease-out;
-
 }
 
+#heading{
+    width: 550px;
+    height: 80px;
+    margin: 10px;
+    float: left;
+    position: relative;
+    display: block;
+    border: 1px solid silver;
+ }
