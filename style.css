@@ -149,9 +149,9 @@ html, body{
 }
 
 #navbar #socialHrefs{
-    width: 102px;
-    height: 50px;
-    padding: 15px 35px 15px 40px;
+    width: 104px;
+    height: 52px;
+    padding: 14px 35px 14px 35px;
     position: relative;
     border: 1px solid silver;
     margin: 10px 0 10px 20px;
@@ -159,6 +159,7 @@ html, body{
 }
 
 #instaGram{
+    padding: 1px;
     width: 50px;
     height: 50px;
     border: 1px solid silver;
@@ -166,14 +167,14 @@ html, body{
     float: left;
 }
 #instaGram h1{
-    font-family: Decor, sans-serif;
+    font-family: "Old English Text MT", sans-serif;
     color: silver;
     font-size: 45px;
     margin: 0 auto;
 
 }
 
-#instaGram h1:hover{
+#instaGram a:hover{
     content: url("http://www.a-league.com.au/i/FFA/layout/social/instagram-logo.png");
     width: 50px;
     height: 50px;
@@ -181,11 +182,12 @@ html, body{
     float: left;
 }
 
-#instaGram h1:active{
+#instaGram a:active{
     background: oldlace;
 }
 
 #faceBook{
+    padding: 1px;
     width: 50px;
     height: 50px;
     border: 1px solid silver;
@@ -194,14 +196,14 @@ html, body{
 }
 
 #faceBook h1{
-    font-family: Decor, sans-serif;
+    font-family: "Old English Text MT", sans-serif;
     color: silver;
     font-size: 45px;
     margin: 0 auto;
 
 }
 
-#faceBook h1:hover{
+#faceBook a:hover{
     content: url("http://macombparkdistrict.com/wp-content/uploads/2017/01/facebook-logo.png");
     width: 50px;
     height: 50px;
@@ -209,7 +211,7 @@ html, body{
     float: left;
 }
 
-#faceBook h1:active{
+#faceBook a:active{
     background: oldlace;
 }
 
