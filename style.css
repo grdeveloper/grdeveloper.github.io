@@ -138,5 +138,8 @@ html, body{
 
 #heading ul li{
     flex-grow: 1;
+}
+
+#heading ul li a{
     justify-content: center;
 }
