@@ -167,8 +167,7 @@ html, body{
     float: left;
 }
 
-.instagram, 
-.facebook a{
+#navbar #socialHrefs a{
     display: block;
     color: silver;
     line-height: 45px;
