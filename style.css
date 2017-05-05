@@ -155,7 +155,7 @@ html, body{
     border: 1px solid silver;
     position: relative;
     float: left;
-    display: table;
+    display: inline;
 }
 
 #navbar #socialHrefs .instagram{
