@@ -167,15 +167,6 @@ html, body{
     float: left;
 }
 
-#navbar #socialHrefs a{
-    display: block;
-    color: silver;
-    line-height: 45px;
-    text-align: center;
-    font-size: 38px;
-    font-family: Alfredo, sans-serif;
-}
-
 #navbar #socialHrefs .facebook{
     width: 45px;
     height: 45px;
@@ -185,7 +176,17 @@ html, body{
     float: left;
 }
 
+#navbar #socialHrefs a{
+    display: block;
+    color: silver;
+    line-height: 45px;
+    text-align: center;
+    font-size: 38px;
+    font-family: Alfredo, sans-serif;
+}
 
-
+#navbar #socialHrefs a:active{
+    background: oldlace;
+}
 
 
