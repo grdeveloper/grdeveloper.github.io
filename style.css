@@ -169,6 +169,7 @@ html, body{
 
 #navbar #socialHrefs .instagram a{
     display: block;
+    line-height: 45px;
 }
 
 #navbar #socialHrefs .facebook{
@@ -182,6 +183,7 @@ html, body{
 
 #navbar #socialHrefs .facebook a{
     display: block;
+    line-height: 45px;
 }
 
 
