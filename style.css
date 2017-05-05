@@ -149,8 +149,9 @@ html, body{
 }
 
 #navbar #socialHrefs{
-    width: 180px;
-    height: 80px;
+    width: 140px;
+    height: 70px;
+    padding: 10px 20px 10px 20px;
     position: relative;
     border: 1px solid silver;
     margin: 10px 0 10px 20px;
