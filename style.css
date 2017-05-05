@@ -133,7 +133,7 @@ html, body{
 #heading ul{
      width: 550px;
      display: flex;
-     align-items: space-between;
+     align-items: space-around;
 }
 
 #heading ul li{
