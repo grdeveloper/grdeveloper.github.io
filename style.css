@@ -146,6 +146,10 @@ html, body{
     float: left;
 }
 
+#navbar #heading ul{
+    display: inline;
+}
+
 #navbar #socialHrefs{
     width: 150px;
     height: 80px;
