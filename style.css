@@ -343,9 +343,23 @@ html, body{
     margin: 10px 30px 0 0;
 }
 
-@media all and (max-width: 400px){
-    #container{
-        display: flex;
+@media all and (max-width: 800px){
+    #navbar{
+        width: 100%;
+        height: auto;
+    }
+    #navbar #brand{
+        width: 100%;
+        height: auto;
+        Margin: 5px auto;
+    }
+    #navbar #heading{
+        width: 100%;
+        height: auto;
+        Margin: 5px auto;
+    }
+    #navbar #heading a{
+        margin-left: 10px;
     }
 }
 
