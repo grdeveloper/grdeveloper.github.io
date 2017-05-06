@@ -159,6 +159,9 @@ html, body{
     margin-left: 40px;
     padding: 0;
     text-align: center;
+    line-height: 80px;
+    font-size: 35px;
+    color: silver;
     
 }
 
