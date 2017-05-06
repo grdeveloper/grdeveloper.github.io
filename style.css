@@ -156,11 +156,12 @@ html, body{
     width: 120px;
     height: 80px;
     border: 1px solid silver;
-    margin-left: 40px;
+    margin-left: 38px;
     padding: 0;
     text-align: center;
     line-height: 80px;
-    font-size: 35px;
+    font-size: 24px;
+    font-weight: bold;
     color: silver;
     
 }
