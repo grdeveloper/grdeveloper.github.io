@@ -151,6 +151,13 @@ html, body{
     float: left;
 }
 
+#navbar #heading a{
+    display: block;
+    width: 120px;
+    height: 45px;
+    
+}
+
 #navbar #socialHrefs{
     width: 150px;
     height: 80px;
