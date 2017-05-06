@@ -274,17 +274,17 @@ html, body{
 }
 
 .instagram a{
-    -webkit-animation: drops 11s ease-in;
-    -moz-animation: drops 11s ease-in;
-    -o-animation: drops 11s ease-in;
-    animation: drops 11s ease-in;
+    -webkit-animation: drops 7s ease-in;
+    -moz-animation: drops 7s ease-in;
+    -o-animation: drops 7s ease-in;
+    animation: drops 7s ease-in;
 }
 
 .facebook a{
-    -webkit-animation: drops 12s ease-in;
-    -moz-animation: drops 12s ease-in;
-    -o-animation: drops 12s ease-in;
-    animation: drops 12s ease-in;
+    -webkit-animation: drops 8s ease-in;
+    -moz-animation: drops 8s ease-in;
+    -o-animation: drops 8s ease-in;
+    animation: drops 8s ease-in;
 }
 
 #navbar #socialHrefs a{
