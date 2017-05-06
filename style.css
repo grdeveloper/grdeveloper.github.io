@@ -154,9 +154,10 @@ html, body{
 #navbar #heading a{
     display: block;
     width: 120px;
-    height: 45px;
+    height: 80px;
     border: 1px solid silver;
-    
+    margin-left: 40px;
+    padding: 0;
 }
 
 #navbar #socialHrefs{
