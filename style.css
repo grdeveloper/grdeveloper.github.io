@@ -346,15 +346,18 @@ html, body{
 @media screen and (max-width: 420px){
     #navbar{
         width: 100%;
+        height: auto;
         margin-top: 20px;
     }
     #brand{
         width: 80%;
         margin: 3px auto;
+        display: block;
     }
     #heading{
         width: 80%;
         margin: 10px auto;
+        display: block;
     }
     
     #heading ul li{
@@ -364,9 +367,11 @@ html, body{
     #socialHrefs{
         width: 50%;
         margin: 10px auto;
+        display: block;
     }
     #footer{
         width: 100%;
+        height: 80px;
     }
     #footer .rights{
         float: left;
