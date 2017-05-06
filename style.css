@@ -325,7 +325,8 @@ html, body{
 
 #footer span{
     font-size: 17px;
-    color: cadetblue;
+    background: silver;
+    color: white;
 }
 
 #footer .copy{
