@@ -347,27 +347,24 @@ html, body{
     #navbar{
         width: 100%;
         height: auto;
-        margin-top: 20px;
+        margin-top: 10px;
     }
     #brand{
         width: 80%;
-        margin: 3px auto;
+        margin-left: 30px;
         display: block;
     }
     #heading{
         width: 80%;
-        margin: 10px auto;
-        display: block;
-    }
-    
-    #heading ul li{
-        display: block;
+        margin-left:30px;
+        display: flex;
+        flex-direction: column;
     }
     
     #socialHrefs{
         width: 50%;
-        margin: 10px auto;
-        display: block;
+        margin-left: 100px;
+        display: flex;
     }
     #footer{
         width: 100%;
