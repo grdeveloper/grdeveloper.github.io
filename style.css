@@ -319,6 +319,7 @@ html, body{
     height: 50px;
     bottom: 0;
     left: 0;
+    position: absolute;
     border: 1px solid silver;
 }
 
