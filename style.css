@@ -161,6 +161,10 @@ html, body{
     font-size: 24px;
     font-weight: bold;
     color: silver; 
+    -webkit-animation: title 7s ease-out;
+    -moz-animation: title 7s ease-out;
+    -o-animation: title 7s ease-out;
+    animation: title 7s ease-out;
 }
 
 #navbar #heading a:hover{
