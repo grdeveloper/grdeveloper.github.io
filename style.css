@@ -349,17 +349,18 @@ html, body{
         margin-top: 20px;
     }
     #brand{
-        width: 90%;
+        width: 80%;
         margin: 3px auto;
     }
     #heading{
-        width: 300px;
+        width: 80%;
         margin: 10px auto;
     }
-    #heading a{
-        font-size: 25px;
-        margin-left: 10px;
+    
+    #heading ul li{
+        display: block;
     }
+    
     #socialHrefs{
         width: 50%;
         margin: 10px auto;
