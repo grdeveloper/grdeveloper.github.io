@@ -324,12 +324,17 @@ html, body{
 }
 
 #footer span{
-    font-size: 14px;
-    color: silver;
+    font-size: 17px;
+    color: cadetblue;
 }
 
+#footer .copy{
+    float: left;
+}
 
-
+#footer .rights{
+    float: right;
+}
 
 
 
