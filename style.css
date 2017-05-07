@@ -326,8 +326,14 @@ html, body{
     background: silver;
 }
 
-#footer h5{
-    color: white;
+#footer span{
+    color: red;
+    font-size: 17px;
+}
+
+#footer .backgroundSilver{
+    width: 100%;
+    height: 50px;
 }
 
 #footer .copy{
