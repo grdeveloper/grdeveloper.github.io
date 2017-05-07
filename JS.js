@@ -1,6 +1,6 @@
 var mainBlog = document.getElementById("mainBlog");
-var aboutPage = document.getElementByClassName("aboutPage");
-aboutButton.click = function myFunction(){
+var aboutPage = document.getElementById("abtPage");
+aboutPage.click = function myFunction(){
   if(mainBlog.className === "mainDiv"){
     mainBlog.className = "mainDivBlock";
     aboutPage.className = "aboutPageShadow";
@@ -9,4 +9,3 @@ aboutButton.click = function myFunction(){
     aboutPage.className = "aboutPage";
   }
 };
-myFunction ();
