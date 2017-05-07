@@ -374,6 +374,7 @@ html, body{
         height: 10%;
         display: flex;
         justify-content: center;
+        display: 1px solid silver;
     }
     #footer{
         width: 100%;
