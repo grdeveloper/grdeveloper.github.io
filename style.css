@@ -327,8 +327,13 @@ html, body{
 }
 
 #footer span{
-    color: red;
+    color: white;
     font-size: 17px;
+}
+
+@keyframes floatSilver{
+    from{width: 0;}
+    to{width: 100%}
 }
 
 #footer .backgroundSilver{
