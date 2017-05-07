@@ -346,24 +346,27 @@ html, body{
 @media screen and (max-width: 420px){
     #navbar{
         width: 100%;
-        height: auto;
-        margin-top: 10px;
+        height: 100%;
+        margin-top: 2px;
     }
     #brand{
         width: 80%;
-        margin-left: 30px;
+        height: 20%;
+        margin: 2px auto;
         display: block;
     }
     #heading{
         width: 80%;
-        margin-left:30px;
+        height: 10%;
+        margin:2px auto;
         display: flex;
         flex-direction: column;
     }
     
     #socialHrefs{
         width: 50%;
-        margin-left: 100px;
+        height: 10%;
+        margin: 2px auto;
         display: flex;
     }
     #footer{
