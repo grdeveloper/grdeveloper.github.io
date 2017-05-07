@@ -327,8 +327,8 @@ html, body{
 /*                                                                                  Main Blog*/
 
 #mainBlog{
-    width: 90%;
-    height: 420px;
+    width: 85%;
+    height: 400px;
     margin: 20px auto;
     border: 1px solid silver;
     border-radius: 5px;
