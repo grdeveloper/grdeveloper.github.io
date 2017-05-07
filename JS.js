@@ -9,3 +9,4 @@ aPage.click = function myFunction(){
     aPage.className = "aboutPageShadow";
   }
 };
+myFunction();
