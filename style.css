@@ -147,6 +147,7 @@ html, body{
     position: relative;
     margin: 10px 10px 10px 30px;
     float: left;
+    display: flex;
 }
 
 #navbar #heading ul li{
