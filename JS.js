@@ -8,4 +8,4 @@ aPage.click = function myFunction(){
     mBlog.className === "mainDiv";
     aPage.className = "aboutPage";
   }
-};
+}
