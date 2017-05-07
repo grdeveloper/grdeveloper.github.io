@@ -331,16 +331,6 @@ html, body{
     font-size: 17px;
 }
 
-@keyframes floatSilver{
-    from{width: 0;}
-    to{width: 100%}
-}
-
-#footer .backgroundSilver{
-    width: 100%;
-    height: 50px;
-}
-
 #footer .copy{
     float: left;
     margin: 10px 0 0 30px;
@@ -355,7 +345,11 @@ html, body{
     margin: 10px 30px 0 0;
 }
 
-
+#footer .footerAnimate{
+    background: silver;
+    width: 100%;
+    height: 50px;
+}
     
 
 
