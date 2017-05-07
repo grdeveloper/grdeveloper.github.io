@@ -192,10 +192,6 @@ html, body{
     animation: title 10s ease-out;
 }
 
-.aboutPageShadow{
-    text-shadow: 1px 1px 2px blue;
-}
-
 #navbar #heading a:hover{
     text-shadow: 1px 1px 2px blue;
 }
@@ -336,12 +332,8 @@ html, body{
     margin: 20px auto;
     border: 1px solid silver;
     border-radius: 5px;
-    display: hidden;
-} 
-
-.mainDivBlock{
     display: block;
-}
+} 
 
 /*                                                                                         Footer*/
 
