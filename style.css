@@ -332,7 +332,7 @@ html, body{
     margin: 20px auto;
     border: 1px solid silver;
     border-radius: 5px;
-    display: table;
+    display: none;
 } 
 
 /*                                                                                         Footer*/
