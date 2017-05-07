@@ -340,7 +340,7 @@ html, body{
 } 
 
 .mainDivBlock{
-    display: table;
+    display: block;
 }
 
 /*                                                                                         Footer*/
