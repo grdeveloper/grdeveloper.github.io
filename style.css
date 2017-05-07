@@ -336,8 +336,11 @@ html, body{
     margin: 20px auto;
     border: 1px solid silver;
     border-radius: 5px;
-    display: none;
 } 
+
+.mainDiv{
+    display: hidden;
+}
 
 .mainDivBlock{
     display: block;
