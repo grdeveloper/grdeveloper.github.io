@@ -96,6 +96,8 @@ html, body{
 }
 
 #navbar #brand #brandImg{
+    width: 70px;
+    height: 70px;
     position: absolute;
     z-index: 1;
     -webkit-animation: brandImage 4s ease 1s alternate;
