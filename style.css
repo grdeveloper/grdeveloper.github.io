@@ -376,7 +376,7 @@ html, body{
         height: 5%;
         display: flex;
         justify-content: center;
-        flex-wrap: wrap;
+        flex-wrap: nowrap;
     }
 }
 
