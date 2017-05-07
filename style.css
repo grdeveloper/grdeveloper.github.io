@@ -9,9 +9,10 @@ html, body{
     width: 100%;
 }
 
-
+@media screen and (min-width: 1200px){
 #container{
     width: 100%;
+    }
 }
 
 #navbar{
@@ -343,47 +344,6 @@ html, body{
     margin: 10px 30px 0 0;
 }
 
-@media screen and (max-width: 420px){
-    #container{
-        width: 100%;
-        height: 100%;
-        display: flex;
-        justify-content: center;
-    }
-    
-    #navbar{
-        width: 100%;
-        height: 30%;
-    }
-    #brand{
-        width: 100%;
-        height: 15%;
-        display: flex;
-        justify-content: center;
-    }
-    #heading{
-        width: 100%;
-        height: 10%;
-        display: flex;
-        justify-content: center;
-        flex-direction: row;
-    }
-    
-    #socialHrefs{
-        width: 70%;
-        height: 10%;
-        display: flex;
-        justify-content: center;
-        display: 1px solid silver;
-    }
-    #footer{
-        width: 100%;
-        height: 5%;
-        display: flex;
-        justify-content: center;
-        flex-wrap: nowrap;
-    }
-}
 
 
 
