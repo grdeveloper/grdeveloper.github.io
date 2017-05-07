@@ -1,11 +1,11 @@
-var mainBlog = document.getElementById("mainBlog");
-var aboutPage = document.getElementById("abtPage");
-aboutPage.click = function myFunction(){
-  if(mainBlog.className === "mainDiv"){
-    mainBlog.className = "mainDivBlock";
-    aboutPage.className = "aboutPageShadow";
+var mBlog = document.getElementById("mainBlog");
+var aPage = document.getElementById("abtPage");
+aPage.click = function myFunction(){
+  if(mBlog.className === "mainDiv"){
+    mBlog.className = "mainDivBlock";
+    aPage.className = "aboutPageShadow";
   } else{
-    mainBlog.className === "mainDiv";
-    aboutPage.className = "aboutPage";
+    mBlog.className === "mainDiv";
+    aPage.className = "aboutPage";
   }
 };
