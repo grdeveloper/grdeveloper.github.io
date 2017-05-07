@@ -9,3 +9,4 @@ aboutButton.click = function myFunction(){
     aboutPage.className = "aboutPage";
   }
 };
+myFunction ();
