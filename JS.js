@@ -1,3 +1,3 @@
 var mBlog = document.getElementById("mainBlog");
 var aPage = document.getElementById("abtPage");
-aPage.click = mBlog.style.display = "hidden";
+aPage.click = function changeFunc(){mBlog.style.display = "hidden";}
