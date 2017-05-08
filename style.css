@@ -339,7 +339,7 @@ html, body{
 #mainBlog #mainOne{
     width: 25%;
     height: 370px;
-    margin: 15px;
+    margin: 1%;
     border: 1px solid silver;
     border-radius: 5px;
     display: block;
@@ -347,9 +347,9 @@ html, body{
 }
 
 #mainBlog #mainTwo{
-    width: 42%;
+    width: 46%;
     height: 370px;
-    margin: 15px;
+    margin: 1%;
     border: 1px solid silver;
     border-radius: 5px;
     display: block;
@@ -359,7 +359,7 @@ html, body{
 #mainBlog #mainThree{
     width: 25%;
     height: 370px;
-    margin: 15px;
+    margin: 1%;
     border: 1px solid silver;
     border-radius: 5px;
     display: block;
