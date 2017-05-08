@@ -333,7 +333,38 @@ html, body{
     border: 1px solid silver;
     border-radius: 5px;
     display: block;
+    position: relative;
 } 
+
+#mainBlog #mainOne{
+    width: 28%;
+    height: 370px;
+    margin: 15px;
+    border: 1px solid silver;
+    border-radius: 5px;
+    display: block;
+    float: left;
+}
+
+#mainBlog #mainOne{
+    width: 40%;
+    height: 370px;
+    margin: 15px;
+    border: 1px solid silver;
+    border-radius: 5px;
+    display: block;
+    float: left;
+}
+
+#mainBlog #mainOne{
+    width: 28%;
+    height: 370px;
+    margin: 15px;
+    border: 1px solid silver;
+    border-radius: 5px;
+    display: block;
+    float: left;
+}
 
 /*                                                                                         Footer*/
 
