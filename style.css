@@ -10,11 +10,6 @@ html, body{
     height: 100%
 }
 
-body{
-   background: url("https://s-media-cache-ak0.pinimg.com/originals/85/ea/cd/85eacd92c76698fa0fbd815684f5b8da.jpg");
-    background-repeat: no-repeat;
-}
-
 #container{
     width: 100%;
     height: 100%;
