@@ -11,7 +11,7 @@ html, body{
 
 body{
     background: url("http://png.clipart.me/previews/4be/abstract-blue-background-vector-graphic-4-22512.jpg");
-    background-size: cover;
+    background-size: content;
 }
 
 #container{
