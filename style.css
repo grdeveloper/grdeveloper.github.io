@@ -330,7 +330,7 @@ html, body{
     width: 85%;
     height: 400px;
     margin: 20px auto;
-    border: 1px solid silver;
+    background: silver;
     border-radius: 5px;
     display: block;
     position: relative;
