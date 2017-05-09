@@ -335,6 +335,7 @@ html, body{
     border-bottom: 1px solid silver;
     display: block;
     background: url("http://www.planwallpaper.com/static/images/HD-Wallpapers1_FOSmVKg.jpeg");
+    background-size: cover;
     position: relative;
 } 
 
