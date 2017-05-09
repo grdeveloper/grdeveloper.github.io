@@ -331,7 +331,6 @@ html, body{
     height: 400px;
     margin: 20px auto;
     background: silver;
-    z-index: -1;
     border-radius: 5px;
     display: block;
     position: relative;
