@@ -331,7 +331,7 @@ html, body{
     height: 400px;
     margin: 20px auto;
     background: url("https://images7.alphacoders.com/426/426889.jpg");
-    background-size: cover;
+    background-size: 100%;
     border-radius: 5px;
     display: block;
     position: relative;
