@@ -331,7 +331,7 @@ html, body{
     width: 100%;
     height: 430px;
     margin-top: 10px;
-    border: 1px solid silver;
+    border-top, border-bottom: 1px solid silver;
     display: block;
     background: url("");
     position: relative;
