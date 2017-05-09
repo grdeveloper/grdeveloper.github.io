@@ -397,7 +397,7 @@ html, body{
     -moz-animation: footAnim 9s ease-in;
     -o-animation: footAnim 9s ease-in;
     animation: footAnim 9s ease-in;
-    background: linear-gradient(to right, silver,silver, silver, #5c88ff);
+    background: linear-gradient(to right, silver,silver, #5c88ff);
     width: 100%;
     height: 50px;
 }
