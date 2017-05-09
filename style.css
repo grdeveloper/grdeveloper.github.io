@@ -340,33 +340,33 @@ html, body{
     width: 25%;
     height: 370px;
     margin: 1% 0 1% 1%;
-    border: 1px solid silver;
+    border: 1px solid blue;
     border-radius: 5px;
     display: block;
     float: left;
-    position: absolute;
+    position: relative;
 }
 
 #mainBlog #mainTwo{
     width: 45%;
     height: 370px;
     margin: 1%;
-    border: 1px solid silver;
+    border: 1px solid blue;
     border-radius: 5px;
     display: block;
     float: left;
-    position: absolute;
+    position: relative;
 }
 
 #mainBlog #mainThree{
     width: 25%;
     height: 370px;
     margin: 1% 1% 1% 0;
-    border: 1px solid silver;
+    border: 1px solid blue;
     border-radius: 5px;
     display: block;
     float: left;
-    position: absolute;
+    position: relative;
 }
 
 /*                                                                                         Footer*/
