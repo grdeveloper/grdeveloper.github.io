@@ -336,7 +336,77 @@ html, body{
     background: url("https://www.clipartsgram.com/image/1171918680-3d-blue-squares-vector-backgrounds-3.png");
     background-size: cover;
     position: relative;
-} 
+}
+
+@keyframes lineFlow{
+    from{width: 0; background: linear-gradient(to right, white, blue);}
+    to{width: 100%; background: linear-gradient(to right, white, blue);}
+}
+
+
+#mainBlog .animationLine{
+    width: 333px;
+    height: 3px;
+    background: transparent;
+    bottom: 31.5%;
+    left: 36.8%;
+    transform: rotate(-55deg);
+    position: absolute;
+
+}
+
+#innerBlog{
+    position: absolute;
+    width: 333px;
+    height: 3px;
+    background: transparent;
+    -webkit-animation: lineFlow 1s ease-in;
+    -moz-animation: lineFlow 1s ease-in;
+    -o-animation: lineFlow 1s ease-in;
+    animation: lineFlow 1s ease-in;
+}
+
+#mainBlog .animationSecondLine{
+    width: 371px;
+    height: 3px;
+    background: transparent;
+    bottom: 38.8%;
+    left: 53.8%;
+    transform: rotate(35deg);
+    position: absolute;
+}
+
+#innerBlogSecond{
+    position: absolute;
+    width: 371px;
+    height: 3px;
+    background: transparent;
+    -webkit-animation: lineFlow 1s ease-in .8s;
+    -moz-animation: lineFlow 1s ease-in .8s;
+    -o-animation: lineFlow 1s ease-in .8s;
+    animation: lineFlow 1s ease-in .8s;
+}
+
+#mainBlog .animationThirdLine{
+    width: 74px;
+    height: 3px;
+    background: transparent;
+    bottom: 6.8%;
+    left: 74.7%;
+    transform: rotate(305deg);
+    position: absolute;
+}
+
+#innerBlogThird{
+    position: absolute;
+    width: 74px;
+    height: 3px;
+    background: transparent;
+    -webkit-animation: lineFlow 1s ease-in 1.7s reverse;
+    -moz-animation: lineFlow 1s ease-in 1.7s reverse;
+    -o-animation: lineFlow 1s ease-in 1.7s reverse;
+    animation: lineFlow 1s ease-in 1.7s reverse;
+}
 
 
 
