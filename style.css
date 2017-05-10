@@ -365,7 +365,7 @@ html, body{
     bottom: 31.5%;
     left: 37.2%;
     transform: rotate(-55deg);
-    position: absolute;
+    position: relative;
 
 }
 
@@ -387,7 +387,7 @@ html, body{
     bottom: 38.5%;
     left: 53.8%;
     transform: rotate(35deg);
-    position: absolute;
+    position: relative;
 }
 
 #innerBlogSecond{
@@ -408,7 +408,7 @@ html, body{
     bottom: 6.8%;
     left: 75.1%;
     transform: rotate(305deg);
-    position: absolute;
+    position: relative;
 }
 
 #innerBlogThird{
