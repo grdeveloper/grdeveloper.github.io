@@ -328,8 +328,9 @@ html, body{
 
 #mainBlog{
     width: 100%;
-    min-height: 432px;
+    min-height: 427px;
     margin-top: 10px;
+    margin-bottom: 5px;
     border-top: 1px solid silver;
     border-bottom: 1px solid silver;
     display: block;
