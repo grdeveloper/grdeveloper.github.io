@@ -11,7 +11,8 @@ html, body{
 
 #container{
     width: 100%;
-    height: auto;
+    display: grid;
+    grid-row: 20% 60% 20%;
     }
 
 /*                                                                            navbar*/
@@ -21,6 +22,7 @@ html, body{
     min-height: 100px;
     display: block;
     margin: 20px auto;
+    grid-row: 1;
     position: relative;
 }
 
@@ -336,6 +338,7 @@ html, body{
     background: url("https://www.clipartsgram.com/image/1171918680-3d-blue-squares-vector-backgrounds-3.png");
     background-size: cover;
     position: relative;
+    grid-row: 2;
 } 
 
 /*                                                                                         Footer*/
@@ -343,9 +346,7 @@ html, body{
 #footer{
     width: 100%;
     height: 50px;
-    left: 0;
-    bottom: 0;
-    position: absolute;
+    grid-row: 3;
 }
 
 #footer span{
