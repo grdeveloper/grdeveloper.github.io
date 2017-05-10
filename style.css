@@ -338,6 +338,12 @@ html, body{
     position: relative;
 } 
 
+#mainBlog span{
+    width: 400px;
+    height: 2px;
+    background: #5c88ff;
+}
+
 /*                                                                                         Footer*/
 
 #footer{
