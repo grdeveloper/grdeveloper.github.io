@@ -327,37 +327,37 @@ html, body{
 
 @-webkit-keyframes mainBlogFlow{
     from{
-        opacity: 0;
+        height: 0;
     }
     to{
-        opacity: 1;
+        min-height: 427px;
     }
 }
 
 @-moz-keyframes mainBlogFlow{
    from{
-        opacity: 0;
+        height: 0;
     }
     to{
-        opacity: 1;
+        min-height: 427px;
     }
 }
 
 @-o-keyframes mainBlogFlow{
     from{
-        opacity: 0;
+        height: 0;
     }
     to{
-        opacity: 1;
+        min-height: 427px;
     }
 }
 
 @keyframes mainBlogFlow{
     from{
-        opacity: 0;
+        height: 0;
     }
     to{
-        opacity: 1;
+        min-height: 427px;
     }
 }
 
