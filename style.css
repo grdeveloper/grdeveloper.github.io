@@ -325,6 +325,15 @@ html, body{
 
 /*                                                                                  Main Blog*/
 
+@keyframes mainBlogFlow{
+    0%{
+        right: 0;
+    }
+    100%{
+        right: 100%;
+    }
+}
+
 #mainBlog{
     width: 100%;
     min-height: 427px;
@@ -336,6 +345,10 @@ html, body{
     background: url("https://www.clipartsgram.com/image/1171918680-3d-blue-squares-vector-backgrounds-3.png");
     background-size: cover;
     position: relative;
+    -webkit-animation: mainBlogFlow 9s ease-in;
+    -moz-animation: mainBlogFlow 9s ease-in;
+    -o-animation: mainBlogFlow 9s ease-in;
+    animation: mainBlogFlow 9s ease-in;
 } 
 
 /*@keyframes lineFlow{
