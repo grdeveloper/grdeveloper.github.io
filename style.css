@@ -338,7 +338,7 @@ html, body{
     position: relative;
 } 
 
-@keyframes lineFlow{
+/*@keyframes lineFlow{
     0%{
         left: 577px;
         bottom: 0;
@@ -351,14 +351,15 @@ html, body{
         width: 200px;
         position: absolute;
     }
-}
+}*/
 
 #mainBlog .animLine{
     width: 200px;
     height: 3px;
     background: #5c88ff;
     bottom: 0;
-    left: 577px;
+    left: 579px;
+    transform: rotate(45deg);
     position: absolute;
     animation-name: lineFlow;
     animation-duration: 5s;
