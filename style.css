@@ -368,9 +368,9 @@ html, body{
 #mainBlog .animationSecondLine{
     width: 374px;
     height: 3px;
-    background: blue;
+    background: transparent;
     bottom: 38.5%;
-    left: 53.7%;
+    left: 53.8%;
     transform: rotate(35deg);
     position: absolute;
 }
