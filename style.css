@@ -326,37 +326,37 @@ html, body{
 /*                                                                                  Main Blog*/
 
 @-webkit-keyframes mainBlogFlow{
-    0%{
+    from{
         opacity: 0;
     }
-    100%{
+    to{
         opacity: 1;
     }
 }
 
 @-moz-keyframes mainBlogFlow{
-    0%{
+   from{
         opacity: 0;
     }
-    100%{
+    to{
         opacity: 1;
     }
 }
 
 @-o-keyframes mainBlogFlow{
-    0%{
+    from{
         opacity: 0;
     }
-    100%{
+    to{
         opacity: 1;
     }
 }
 
 @keyframes mainBlogFlow{
-    0%{
+    from{
         opacity: 0;
     }
-    100%{
+    to{
         opacity: 1;
     }
 }
@@ -378,32 +378,7 @@ html, body{
     animation: mainBlogFlow 5s ease-in;
 } 
 
-/*@keyframes lineFlow{
-    0%{
-        left: 577px;
-        bottom: 0;
-        width: 0;
-        position: absolute;
-    }
-    100%{
-        left: 627px;
-        bottom: 100px;
-        width: 200px;
-        position: absolute;
-    }
-}*/
 
-#mainBlog .animLine{
-    width: 220px;
-    height: 3px;
-    background: #5c88ff;
-    bottom: 9.5%;
-    left: 559px;
-    transform: translateX(50%) translateY(50%);
-    position: absolute;
-    animation-name: lineFlow;
-    animation-duration: 5s;
-}
 
 /*                                                                                         Footer*/
 
