@@ -338,7 +338,7 @@ html, body{
     position: relative;
 } 
 
-#mainBlog span{
+#mainBlog .animLine{
     width: 400px;
     height: 50px;
     background: #5c88ff;
