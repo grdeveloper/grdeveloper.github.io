@@ -343,11 +343,13 @@ html, body{
         left: 320px;
         bottom: 0;
         width: 0;
+        position: absolute;
     }
     100%{
         left: 400px;
-        bottom: -200px;
+        bottom: 0;
         width: 200px;
+        position: absolute;
     }
 }
 
