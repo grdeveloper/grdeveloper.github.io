@@ -348,7 +348,7 @@ html, body{
     height: 3px;
     background: blue;
     bottom: 31.5%;
-    left: 498px;
+    left: 60%;
     transform: rotate(-55deg);
     position: absolute;
 
@@ -370,7 +370,7 @@ html, body{
     height: 3px;
     background: blue;
     bottom: 38.8%;
-    left: 728px;
+    left: 70%;
     transform: rotate(35deg);
     position: absolute;
 }
