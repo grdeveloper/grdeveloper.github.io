@@ -345,10 +345,10 @@ html, body{
     background: url("https://www.clipartsgram.com/image/1171918680-3d-blue-squares-vector-backgrounds-3.png");
     background-size: cover;
     position: relative;
-    -webkit-animation: mainBlogFlow 3s ease-in;
-    -moz-animation: mainBlogFlow 3s ease-in;
-    -o-animation: mainBlogFlow 3s ease-in;
-    animation: mainBlogFlow 3s ease-in;
+    -webkit-animation: mainBlogFlow 5s ease-in;
+    -moz-animation: mainBlogFlow 5s ease-in;
+    -o-animation: mainBlogFlow 5s ease-in;
+    animation: mainBlogFlow 5s ease-in;
 } 
 
 /*@keyframes lineFlow{
