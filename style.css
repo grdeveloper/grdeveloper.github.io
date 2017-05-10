@@ -358,6 +358,7 @@ html, body{
     height: 3px;
     background: #5c88ff;
     bottom: 0;
+    left: 500px;
     position: absolute;
     animation-name: lineFlow;
     animation-duration: 5s;
