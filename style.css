@@ -338,6 +338,21 @@ html, body{
     position: relative;
 }
 
+@-webkit-keyframes lineFlow{
+    from{width: 0; background: linear-gradient(to right, white, blue);}
+    to{width: 100%; background: linear-gradient(to right, white, blue);}
+}
+
+@-moz-keyframes lineFlow{
+    from{width: 0; background: linear-gradient(to right, white, blue);}
+    to{width: 100%; background: linear-gradient(to right, white, blue);}
+}
+
+@-o-keyframes lineFlow{
+    from{width: 0; background: linear-gradient(to right, white, blue);}
+    to{width: 100%; background: linear-gradient(to right, white, blue);}
+}
+
 @keyframes lineFlow{
     from{width: 0; background: linear-gradient(to right, white, blue);}
     to{width: 100%; background: linear-gradient(to right, white, blue);}
