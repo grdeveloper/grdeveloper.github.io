@@ -346,7 +346,7 @@ html, body{
     }
     100%{
         left: 400px;
-        bottom: -200;
+        bottom: -200px;
         width: 200px;
     }
 }
