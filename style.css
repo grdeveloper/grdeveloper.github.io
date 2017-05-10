@@ -344,11 +344,11 @@ html, body{
 }
 
 #mainBlog .animationLine{
-    width: 332px;
+    width: 333px;
     height: 3px;
     background: blue;
     bottom: 31.5%;
-    left: 36%;
+    left: 37.5%;
     transform: rotate(-55deg);
     position: absolute;
 
@@ -356,7 +356,7 @@ html, body{
 
 #innerBlog{
     position: absolute;
-    width: 332px;
+    width: 333px;
     height: 3px;
     background: transparent;
     -webkit-animation: lineFlow 1s ease-in;
@@ -366,18 +366,18 @@ html, body{
 }
 
 #mainBlog .animationSecondLine{
-    width: 370px;
+    width: 372px;
     height: 3px;
     background: blue;
     bottom: 38.8%;
-    left: 54.3%;
+    left: 53.8%;
     transform: rotate(35deg);
     position: absolute;
 }
 
 #innerBlogSecond{
     position: absolute;
-    width: 370px;
+    width: 372px;
     height: 3px;
     background: transparent;
     -webkit-animation: lineFlow 1s ease-in .8s;
@@ -387,7 +387,7 @@ html, body{
 }
 
 #mainBlog .animationThirdLine{
-    width: 72px;
+    width: 71px;
     height: 3px;
     background: blue;
     bottom: 6.8%;
@@ -398,7 +398,7 @@ html, body{
 
 #innerBlogThird{
     position: absolute;
-    width: 73px;
+    width: 71px;
     height: 3px;
     background: transparent;
     -webkit-animation: lineFlow 1s ease-in 1.6s reverse;
