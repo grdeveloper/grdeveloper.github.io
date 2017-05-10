@@ -19,7 +19,7 @@ html, body{
 
 #navbar{
     width: 80%;
-    min-height: 40%;
+    min-height: 100px;
     display: block;
     margin: 20px auto;
     position: relative;
