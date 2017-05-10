@@ -343,6 +343,7 @@ html, body{
     height: 50px;
     background: #5c88ff;
     z-index: 1;
+    position: relative
 }
 
 /*                                                                                         Footer*/
