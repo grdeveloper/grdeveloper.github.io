@@ -346,7 +346,7 @@ html, body{
 #mainBlog .animationLine{
     width: 332px;
     height: 3px;
-    background: transparent;
+    background: blue;
     bottom: 31.5%;
     left: 498px;
     transform: rotate(-55deg);
@@ -368,7 +368,7 @@ html, body{
 #mainBlog .animationSecondLine{
     width: 370px;
     height: 3px;
-    background: transparent;
+    background: blue;
     bottom: 38.8%;
     left: 728px;
     transform: rotate(35deg);
@@ -389,7 +389,7 @@ html, body{
 #mainBlog .animationThirdLine{
     width: 73px;
     height: 3px;
-    background: transparent;
+    background: blue;
     bottom: 6.8%;
     left: 74.7%;
     transform: rotate(305deg);
