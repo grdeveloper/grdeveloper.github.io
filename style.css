@@ -357,7 +357,7 @@ html, body{
     width: 120px;
     height: 3px;
     background: #5c88ff;
-    bottom: 0;
+    bottom: 5%;
     left: 579px;
     transform: rotate(-55deg);
     position: absolute;
