@@ -338,10 +338,31 @@ html, body{
     position: relative;
 } 
 
+@keyframes lineFlow{
+    0%{
+        left: 320px;
+        bottom: 0;
+    }
+    34%{
+        left: 380px;
+        top: 150px;
+    }
+    68%{
+        left: 580px;
+        bottom: -100px;
+    }
+    100%{
+        left: 620px;
+        bottom: 0;
+    }
+}
+
 #mainBlog .animLine{
     width: 400px;
     height: 3px;
     background: #5c88ff;
+    animation-name: lineFlow;
+    animation-duration: 5s;
 }
 
 /*                                                                                         Footer*/
