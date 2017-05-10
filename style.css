@@ -327,10 +327,10 @@ html, body{
 
 @keyframes mainBlogFlow{
     0%{
-        left: -100%;
+        right: -100%;
     }
     100%{
-        left: 0;
+        right: 0;
     }
 }
 
