@@ -327,10 +327,10 @@ html, body{
 
 @keyframes mainBlogFlow{
     0%{
-        right: 0;
+        right: 100%;
     }
     100%{
-        right: 100%;
+        right: 0%;
     }
 }
 
@@ -345,10 +345,10 @@ html, body{
     background: url("https://www.clipartsgram.com/image/1171918680-3d-blue-squares-vector-backgrounds-3.png");
     background-size: cover;
     position: relative;
-    -webkit-animation: mainBlogFlow 9s ease-in;
-    -moz-animation: mainBlogFlow 9s ease-in;
-    -o-animation: mainBlogFlow 9s ease-in;
-    animation: mainBlogFlow 9s ease-in;
+    -webkit-animation: mainBlogFlow 3s ease-in;
+    -moz-animation: mainBlogFlow 3s ease-in;
+    -o-animation: mainBlogFlow 3s ease-in;
+    animation: mainBlogFlow 3s ease-in;
 } 
 
 /*@keyframes lineFlow{
