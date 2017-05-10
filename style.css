@@ -344,9 +344,8 @@ html, body{
 #footer{
     width: 100%;
     height: 50px;
-    left: 0;
-    bottom: 0;
-    position: absolute;
+    margin-bottom: 0;
+    position: relative;
 }
 
 #footer span{
