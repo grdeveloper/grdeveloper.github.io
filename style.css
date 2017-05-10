@@ -348,7 +348,7 @@ html, body{
     height: 3px;
     background: blue;
     bottom: 31.5%;
-    left: 37.5%;
+    left: 37%;
     transform: rotate(-55deg);
     position: absolute;
 
@@ -369,8 +369,8 @@ html, body{
     width: 372px;
     height: 3px;
     background: blue;
-    bottom: 38.8%;
-    left: 53.8%;
+    bottom: 38.5%;
+    left: 54%;
     transform: rotate(35deg);
     position: absolute;
 }
@@ -387,7 +387,7 @@ html, body{
 }
 
 #mainBlog .animationThirdLine{
-    width: 71px;
+    width: 68px;
     height: 3px;
     background: blue;
     bottom: 6.8%;
@@ -398,7 +398,7 @@ html, body{
 
 #innerBlogThird{
     position: absolute;
-    width: 71px;
+    width: 68px;
     height: 3px;
     background: transparent;
     -webkit-animation: lineFlow 1s ease-in 1.6s reverse;
