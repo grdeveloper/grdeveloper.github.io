@@ -325,8 +325,35 @@ html, body{
 
 /*                                                                                  Main Blog*/
 
+@-webkit-keyframes mainBlogFlow{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+@-moz-keyframes mainBlogFlow{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+@-o-keyframes mainBlogFlow{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
 @keyframes mainBlogFlow{
-    0%{`
+    0%{
         opacity: 0;
     }
     100%{
@@ -336,7 +363,7 @@ html, body{
 
 #mainBlog{
     width: 100%;
-    min-height: 427px;
+    min-height: 427px
     margin-top: 10px;
     margin-bottom: 5px;
     border-top: 1px solid silver;
