@@ -374,10 +374,10 @@ html, body{
     width: 333px;
     height: 3px;
     background: transparent;
-    -webkit-animation: lineFlow 1s ease-in 9s;
-    -moz-animation: lineFlow 1s ease-in 9s;
-    -o-animation: lineFlow 1s ease-in 9s;
-    animation: lineFlow 1s ease-in 9s;
+    -webkit-animation: lineFlow 1s ease-in 9s 3s;
+    -moz-animation: lineFlow 1s ease-in 9s 3s;
+    -o-animation: lineFlow 1s ease-in 9s 3s;
+    animation: lineFlow 1s ease-in 9s 3s;
 }
 
 #mainBlog .animationSecondLine{
@@ -395,10 +395,10 @@ html, body{
     width: 374px;
     height: 3px;
     background: transparent;
-    -webkit-animation: lineFlow 1s ease-in 9.8s;
-    -moz-animation: lineFlow 1s ease-in 9.8s;
-    -o-animation: lineFlow 1s ease-in 9.8s;
-    animation: lineFlow 1s ease-in 9.8s;
+    -webkit-animation: lineFlow 1s ease-in 9.8s 3s;
+    -moz-animation: lineFlow 1s ease-in 9.8s 3s;
+    -o-animation: lineFlow 1s ease-in 9.8s 3s;
+    animation: lineFlow 1s ease-in 9.8s 3s;
 }
 
 #mainBlog .animationThirdLine{
@@ -416,10 +416,10 @@ html, body{
     width: 68px;
     height: 3px;
     background: transparent;
-    -webkit-animation: lineFlow 1s ease-in 10.7s reverse;
-    -moz-animation: lineFlow 1s ease-in 10.7s reverse;
-    -o-animation: lineFlow 1s ease-in 10.7s reverse;
-    animation: lineFlow 1s ease-in 10.7s reverse;
+    -webkit-animation: lineFlow 1s ease-in 10.7s reverse 3s;
+    -moz-animation: lineFlow 1s ease-in 10.7s reverse 3s;
+    -o-animation: lineFlow 1s ease-in 10.7s reverse 3s;
+    animation: lineFlow 1s ease-in 10.7s reverse 3s;
 }
 
 
