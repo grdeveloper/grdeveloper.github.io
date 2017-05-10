@@ -11,17 +11,16 @@ html, body{
 
 #container{
     width: 100%;
-    display: grid;
-    grid-row: 20% 60% 20%;
+    height: auto;
     }
 
 /*                                                                            navbar*/
 
 #navbar{
     width: 80%;
+    min-height: 100px;
     display: block;
     margin: 20px auto;
-    grid-row: 1;
     position: relative;
 }
 
@@ -328,6 +327,7 @@ html, body{
 
 #mainBlog{
     width: 100%;
+    min-height: 427px;
     margin-top: 10px;
     margin-bottom: 5px;
     border-top: 1px solid silver;
@@ -336,14 +336,16 @@ html, body{
     background: url("https://www.clipartsgram.com/image/1171918680-3d-blue-squares-vector-backgrounds-3.png");
     background-size: cover;
     position: relative;
-    grid-row: 2;
 } 
 
 /*                                                                                         Footer*/
 
 #footer{
     width: 100%;
-    grid-row: 3;
+    min-height: 50px;
+    left: 0;
+    bottom: 0;
+    position: absolute;
 }
 
 #footer span{
