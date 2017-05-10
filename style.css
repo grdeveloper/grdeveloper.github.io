@@ -354,7 +354,7 @@ html, body{
 }*/
 
 #mainBlog .animLine{
-    width: 120px;
+    width: 100px;
     height: 3px;
     background: #5c88ff;
     bottom: 5%;
