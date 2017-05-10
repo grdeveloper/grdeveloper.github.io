@@ -342,23 +342,27 @@ html, body{
     0%{
         left: 320px;
         bottom: 0;
+        width: 0;
     }
     34%{
         left: 380px;
         top: 150px;
+        width: 200px;
     }
     68%{
         left: 580px;
         bottom: -100px;
+        width: 200px;
     }
     100%{
         left: 620px;
         bottom: 0;
+        width: 0;
     }
 }
 
 #mainBlog .animLine{
-    width: 400px;
+    width: 200px;
     height: 3px;
     background: #5c88ff;
     animation-name: lineFlow;
