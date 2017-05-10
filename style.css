@@ -359,7 +359,7 @@ html, body{
     background: #5c88ff;
     bottom: 0;
     left: 579px;
-    transform: rotate(-50deg);
+    transform: rotate(-60deg);
     position: absolute;
     animation-name: lineFlow;
     animation-duration: 5s;
