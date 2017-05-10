@@ -346,7 +346,7 @@ html, body{
 #mainBlog .animationLine{
     width: 333px;
     height: 3px;
-    background: blue;
+    background: transparent;
     bottom: 31.5%;
     left: 37.2%;
     transform: rotate(-55deg);
@@ -366,7 +366,7 @@ html, body{
 }
 
 #mainBlog .animationSecondLine{
-    width: 373px;
+    width: 374px;
     height: 3px;
     background: blue;
     bottom: 38.5%;
@@ -377,7 +377,7 @@ html, body{
 
 #innerBlogSecond{
     position: absolute;
-    width: 373px;
+    width: 374px;
     height: 3px;
     background: transparent;
     -webkit-animation: lineFlow 1s ease-in .8s;
