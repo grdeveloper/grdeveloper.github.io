@@ -354,12 +354,12 @@ html, body{
 }*/
 
 #mainBlog .animLine{
-    width: 200px;
+    width: 120px;
     height: 3px;
     background: #5c88ff;
     bottom: 0;
     left: 579px;
-    transform: rotate(-56deg);
+    transform: rotate(-55deg);
     position: absolute;
     animation-name: lineFlow;
     animation-duration: 5s;
