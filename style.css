@@ -423,14 +423,18 @@ html, body{
 }
 
 div#leftMenuItems{
-    color: silver;
-    background: #222;
-    font-size: 30px;
+    color: white;
+    background: #777;
+    font-size: 41px;
     font-weight: bold;
-    width: 65px;
-    height: 200px;  
-    display: flex;
-    
+    width: 200px;
+    height: 85px;
+    text-align: center;
+    line-height: 85px;
+    letter-spacing: 7px;
+    border-radius: 7px;
+    transform: rotate(90deg);
+    margin-top: 250px;
 }
 
 
