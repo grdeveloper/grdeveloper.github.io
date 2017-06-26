@@ -439,6 +439,7 @@ div#leftMenuItems{
     cursor: pointer;
     transition: margin-left .5s ease-in-out;
     position: relative;
+    float: left;
 }
 
 div#leftMenuItems:hover{
@@ -451,6 +452,7 @@ div#imgContainer{
     border: 3px solid silver;
     border-radius: 7px;
     position: relative;
+    float: left;
 }
 
 div#imgContainer > img{
