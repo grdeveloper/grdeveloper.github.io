@@ -436,7 +436,7 @@ div#leftMenuItems{
     margin-top: 180px;
     margin-left: -128px;
     cursor: pointer;
-    transition: margin-left .5s ease-in-out;
+    transition: margin-left .5s linear;
     position: relative;
     float: left;
 }
