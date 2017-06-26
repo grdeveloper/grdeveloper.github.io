@@ -436,7 +436,7 @@ div#leftMenuItems{
     margin-top: 180px;
     margin-left: -128px;
     cursor: pointer;
-    transition: margin-left .5s linear;
+    transition: all .5s linear;
     position: relative;
     float: left;
 }
@@ -463,7 +463,7 @@ div#imgContainer > img{
     border-radius: 5px;
     position: absolute;
     opacity: 0;
-    transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out, left .5s linear;
 }
 
 
