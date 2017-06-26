@@ -366,7 +366,6 @@ html, body{
     left: 37.2%;
     transform: rotate(-55deg);
     position: absolute;
-    z-index: 5;
 }
 
 #innerBlog{
@@ -455,6 +454,7 @@ div#imgContainer{
     float: left;
     margin-left: 50px;
     margin-top: 38px;
+    z-index: 5;
 }
 
 div#imgContainer > img{
