@@ -436,6 +436,11 @@ div#leftMenuItems{
     transform: rotate(-90deg);
     margin-top: 180px;
     margin-left: -128px;
+    transition: margin-left .5s ease-in-out;
+}
+
+div#leftMenuItems:hover{
+    margin-left: -28px;
 }
 
 
