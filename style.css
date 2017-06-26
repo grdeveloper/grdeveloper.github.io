@@ -366,7 +366,7 @@ html, body{
     left: 37.2%;
     transform: rotate(-55deg);
     position: absolute;
-
+    z-index: 5;
 }
 
 #innerBlog{
