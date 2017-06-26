@@ -422,6 +422,14 @@ html, body{
     animation: lineFlow 1s ease-in 10.7s reverse;
 }
 
+div#leftMenuItems{
+    color: silver;
+    background: #222;
+    font-size: 18px;
+    width: 30px;
+    height: 100px;
+    
+}
 
 
 /*                                                                                         Footer*/
