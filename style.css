@@ -453,6 +453,8 @@ div#imgContainer{
     border-radius: 7px;
     position: relative;
     float: left;
+    margin-left: 250px;
+    margin-top: 38px;
 }
 
 div#imgContainer > img{
