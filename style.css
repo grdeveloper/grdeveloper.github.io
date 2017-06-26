@@ -436,6 +436,7 @@ div#leftMenuItems{
     transform: rotate(-90deg);
     margin-top: 180px;
     margin-left: -128px;
+    cursor: pointer;
     transition: margin-left .5s ease-in-out;
 }
 
