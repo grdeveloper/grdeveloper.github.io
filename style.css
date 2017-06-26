@@ -434,7 +434,8 @@ div#leftMenuItems{
     letter-spacing: 7px;
     border-radius: 7px;
     transform: rotate(90deg);
-    margin-top: 250px;
+    margin-top: 180px;
+    margin-left: -200px;
 }
 
 
