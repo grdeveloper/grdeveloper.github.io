@@ -326,7 +326,7 @@ html, body{
 /*                                                                                  Main Blog*/
 
 #mainBlog{
-    width: 100%;
+    width: 100vw;
     min-height: 66.1vh;
     margin-top: 10px;
     margin-bottom: 5px;
