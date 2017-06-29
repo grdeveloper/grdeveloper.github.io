@@ -437,8 +437,7 @@ div#leftMenuItems{
     margin-left: -128px;
     cursor: pointer;
     transition: all .5s linear;
-    position: relative;
-    float: left;
+    position: absolute;
 }
 
 div#leftMenuItems:hover{
