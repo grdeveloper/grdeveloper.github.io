@@ -445,15 +445,14 @@ div#leftMenuItems:hover{
 }
 
 div#imgContainer{
-    width: 500px;
-    height: 350px;
+    width: 45%;
+    height: 72%;
     border: 3px solid silver;
     border-radius: 7px;
     position: relative;
     float: left;
     margin-left: 50px;
     margin-top: 38px;
-    z-index: 5;
 }
 
 div#imgContainer > img{
@@ -462,7 +461,7 @@ div#imgContainer > img{
     border-radius: 5px;
     position: absolute;
     opacity: 0;
-    transition: opacity 1s ease-in-out, left .5s linear;
+    transition: opacity 1s ease-in-out;
 }
 
 
