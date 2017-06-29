@@ -451,7 +451,8 @@ div#imgContainer{
     border-radius: 7px;
     position: relative;
     float: left;
-    margin: 15% 25%;
+    margin-top: 15%;
+    margin left: 20%
 }
 
 div#imgContainer > img{
