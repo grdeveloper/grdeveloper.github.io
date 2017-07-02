@@ -12,8 +12,8 @@ body{
     justify-content: space-around;
 }
 
-#navbar #brand{
-    width: 250px;
+#navbar #brand h1{
+    margin-right: 0;
 }
 
 #navbar #heading{
