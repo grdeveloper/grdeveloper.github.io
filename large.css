@@ -1,0 +1,82 @@
+body{
+    background: lightpink;
+}
+
+#container{
+    width: 100vw;
+}
+
+#navbar{
+    min-width: 100vw;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+#navbar #heading{
+    display: none;
+}
+
+#navbar #socialHrefs{
+    display: none;
+}
+
+#navbar #appendix{
+    display: block;
+    flex: 0;
+    align-self: center;
+}
+
+.nice{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    background: lightblue;
+}
+
+#mainBlog{
+    background: none;
+    border: none;
+    width: 100vw;
+    height: auto;
+}
+
+#leftMenuItems{
+    display: none;
+}
+
+div#imgContainer{
+    width: 90vw;
+    height: 65vh;
+    border: none;
+    position: absolute;
+    top: 5px;
+    left: 5vw;
+    margin-right: 5vw;
+    overflow: hidden;
+}
+
+div#imgContainer > img{
+    width: 100vw;
+    height: 65vh;
+    border-radius: 5px;
+    position: absolute;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
+#footer{
+    float: left;
+    position: relative;
+    margin-top: 5%;
+}
+
+#footer > span{
+    display: inline-block;
+}
+
+.footAnimate{
+    min-height: 70px;
+}
