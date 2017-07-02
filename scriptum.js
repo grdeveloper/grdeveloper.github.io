@@ -4,7 +4,11 @@ window.onload = function () {
 };
 function foo(int) {
     for(var i = 0; i < pics.length;i++){
-            pics[i].style.opacity = 0;
-        }
-        pics[int].style.opacity = 1;
+        pics[i].style.opacity = 0;
+    }
+    pics[int].style.opacity = 1;
+}
+
+function boo(id) {
+    document.getElementById(id).classList.toggle("nice");
 }
