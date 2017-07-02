@@ -15,7 +15,6 @@ body{
 
 #navbar #brand{
      margin-left: 0;
-     width: 60vw;
 }
 
 #navbar #brand h1{
@@ -33,7 +32,6 @@ body{
 
 #navbar #appendix{
     display: block;
-    width: 40vw;
     flex: 0;
     align-self: center;
 }
