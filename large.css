@@ -7,9 +7,14 @@ body{
 }
 
 #navbar{
+    margin-left: 0;
     min-width: 100vw;
     display: flex;
     justify-content: space-around;
+}
+
+#navbar #brand{
+     margin-left: 0;
 }
 
 #navbar #brand h1{
