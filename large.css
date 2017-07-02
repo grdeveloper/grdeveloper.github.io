@@ -12,6 +12,9 @@ body{
     justify-content: space-around;
 }
 
+#navbar #brand{
+    width: 250px;
+}
 
 #navbar #heading{
     display: none;
