@@ -50,6 +50,7 @@ body{
     border: none;
     width: 100vw;
     height: auto;
+    overflow: hidden;
 }
 
 #leftMenuItems{
