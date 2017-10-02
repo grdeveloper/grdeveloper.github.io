@@ -10,5 +10,7 @@ function foo(int) {
 }
 
 function boo(id) {
-    document.getElementById(id).classList.toggle("nice");
+    var changeable = document.getElementById(id);
+    changeable.style.transition = "all .5s ease";
+    changeable.classList.toggle("nice");    
 }
