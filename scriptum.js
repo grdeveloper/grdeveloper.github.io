@@ -11,6 +11,6 @@ function foo(int) {
 
 function boo(id) {
     var changeable = document.getElementById(id);
-    changeable.style.transition = "all .5s ease";
+    changeable.style.transition = "height .5s ease, font-size .5s ease, background .5s ease";
     changeable.classList.toggle("nice");    
 }
