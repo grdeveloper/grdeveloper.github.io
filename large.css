@@ -1,5 +1,6 @@
 body{
     background: lightpink;
+    overflow-x: hidden;
 }
 
 #container{
