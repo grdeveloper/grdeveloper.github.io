@@ -16,6 +16,7 @@ body{
 
 #navbar #brand{
      margin-left: 0;
+     max-width: 40%;
 }
 
 #navbar #brand h1{
