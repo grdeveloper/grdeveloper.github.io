@@ -36,6 +36,10 @@ body{
     align-self: center;
 }
 
+#navbar #appendix img{
+    cursor: pointer;
+}
+
 .nice{
     display: flex;
     flex-direction: column;
