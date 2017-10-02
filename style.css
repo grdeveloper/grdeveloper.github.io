@@ -532,6 +532,10 @@ div#imgContainer > img{
     display: none;
 }
 
+#hideBar{
+    transition: height .5s ease, font-size .5s ease, background .5s ease;
+}
+
 .nicer{
     height: 0;
     opacity: 0;
