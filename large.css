@@ -47,6 +47,7 @@ body{
     align-items: center;
     font-size: 1.5em;
     background: lightblue;
+    transition: all .5s ease;
 }
 
 #mainBlog{
